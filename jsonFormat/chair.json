@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Chair_Sit",
+        "localPlane": {
+            "originX": 259.0, "originY": 621.0, "originZ": 100.0,
+            "normalX": -0.0, "normalY": 0.0, "normalZ": 1.0
+        },
+        "curveParameters": {
+            "thicknessType": "Offset", "thickness": 50,
+            "curve1PointSet": [[59, 871, 100], [59, 705, 100], [59, 538, 100], [59, 371, 100]],
+            "curve2PointSet": [[459, 871, 100], [326, 871, 100], [193, 871, 100], [59, 871, 100]]
+        },
+        "rotateParameters": {
+            "rotateDegrees": {"rx": 0, "ry": 0, "rz": 0},
+            "useLocalPlane": false
+        },
+        "filletParameters": {
+            "ChamferFillet": {"edgeIndex": [0, 2, 7, 9], "edgeRadii": [20, 30, 25, 30]},
+
+            "FilletFillet": {"edgeIndex": [], "edgeRadii": []},
+
+            "BlendFillet": {"edgeIndex": [5, 8, 3, 1], "edgeRadii": [10, 15, 10, 15]}
+        }
+    },
+    {
+        "name": "Chair_leg_FL",
+        "localPlane": {
+            "originX": 105.0, "originY": 397.0, "originZ": -103.0,
+            "normalX": -1.0, "normalY": 0.0, "normalZ": 0.0
+        },
+        "curveParameters": {
+            "thicknessType": "Offset", "thickness": 50,
+            "curve1PointSet": [[105, 385, -207], [105, 393, -207], [105, 401, -207], [105, 409, -207]],
+            "curve2PointSet": [[105, 409, -207], [105, 409, -138], [105, 409, -69], [105, 409, 0]]
+        },
+        "rotateParameters": {
+            "rotateDegrees": {"rx": 0, "ry": 0, "rz": 0},
+            "useLocalPlane": false
+        },
+        "filletParameters": {
+            "ChamferFillet": {"edgeIndex": [0, 2, 7, 9], "edgeRadii": [20, 30, 25, 30]},
+            "FilletFillet": { "edgeIndex": [], "edgeRadii": []},
+            "BlendFillet": {"edgeIndex": [5, 8, 3, 1], "edgeRadii": [10, 15, 10, 15]}
+        }
+    },
+    {
+        "name": "Chair_leg_FR",
+        "localPlane": {
+            "originX": 414.0, "originY": 397.0, "originZ": -103.0,
+            "normalX": -1.0, "normalY": 0.0, "normalZ": 0.0
+        },
+        "curveParameters": {
+            "thicknessType": "Offset", "thickness": 50,
+            "curve1PointSet": [[414, 409, -207], [414, 401, -207], [414, 393, -207], [414, 385, -207]],
+            "curve2PointSet": [[414, 409, 0], [414, 409, -69], [414, 409, -138], [414, 409, -207]]
+        },
+        "rotateParameters": {
+            "rotateDegrees": {"rx": 0, "ry": 0, "rz": 0},
+            "useLocalPlane": false
+        },
+        "filletParameters": {
+            "ChamferFillet": {"edgeIndex": [0, 2, 7, 9], "edgeRadii": [20, 30, 25, 30]},
+            "FilletFillet": { "edgeIndex": [], "edgeRadii": []},
+            "BlendFillet": { "edgeIndex": [5, 8, 3, 1], "edgeRadii": [10, 15, 10, 15]}
+        }
+    },
+    {
+        "name": "Chair_leg_BR",
+        "localPlane": {
+            "originX": 414.0, "originY": 808.0, "originZ": -103.0,
+            "normalX": 1.0, "normalY": 0.0, "normalZ": 0.0
+        },
+        "curveParameters": {
+            "thicknessType": "Offset", "thickness": 50,
+            "curve1PointSet": [[414, 819, -207], [414, 812, -207], [414, 804, -207], [414, 796, -207]],
+            "curve2PointSet": [[414, 796, -207], [414, 796, -138], [414, 796, -69], [414, 796, 0]]
+        },
+        "rotateParameters": {
+            "rotateDegrees": {"rx": 0, "ry": 0, "rz": 0},
+            "useLocalPlane": false
+        },
+        "filletParameters": {
+            "ChamferFillet": {"edgeIndex": [0, 2, 7, 9], "edgeRadii": [20, 30, 25, 30]},
+            "FilletFillet": { "edgeIndex": [], "edgeRadii": []},
+            "BlendFillet": { "edgeIndex": [5, 8, 3, 1], "edgeRadii": [10, 15, 10, 15]}
+        }
+    },
+    {
+        "name": "Chair_leg_BL",
+        "localPlane": {
+            "originX": 105.0, "originY": 808.0, "originZ": -103.0,
+            "normalX": 1.0, "normalY": 0.0, "normalZ": 0.0
+        },
+        "curveParameters": {
+            "thicknessType": "Offset", "thickness": 50,
+            "curve1PointSet": [[105, 796, -207], [105, 804, -207], [105, 812, -207], [105, 819, -207]],
+            "curve2PointSet": [[105, 796, 0], [105, 796, -69], [105, 796, -138], [105, 796, -207]]
+        },
+        "rotateParameters": {
+            "rotateDegrees": {"rx": 0, "ry": 0, "rz": 0},
+            "useLocalPlane": false
+        },
+        "filletParameters": {
+            "ChamferFillet": {"edgeIndex": [0, 2, 7, 9], "edgeRadii": [20, 30, 25, 30]},
+            "FilletFillet": { "edgeIndex": [], "edgeRadii": []},
+            "BlendFillet": { "edgeIndex": [5, 8, 3, 1], "edgeRadii": [10, 15, 10, 15]}
+        }
+    },
+    {
+        "name": "Chair_back",
+        "localPlane": {
+            "originX": 259.0, "originY": 822.0, "originZ": 256.0,
+            "normalX": 0.0, "normalY": -1.0, "normalZ": 0.0
+        },
+        "curveParameters": {
+            "thicknessType": "Offset", "thickness": 50,
+            "curve1PointSet": [[59, 822, 406], [59, 822, 306], [59, 822, 206], [59, 822, 106]],
+            "curve2PointSet": [[459, 822, 406], [326, 822, 406], [193, 822, 406], [59, 822, 406]]
+        },
+        "rotateParameters": {
+            "rotateDegrees": {"rx": 0, "ry": 0, "rz": 0},
+            "useLocalPlane": false
+        },
+        "filletParameters": {
+            "ChamferFillet": {"edgeIndex": [0, 2, 7, 9], "edgeRadii": [20, 30, 25, 30]},
+            "FilletFillet": { "edgeIndex": [], "edgeRadii": []},
+            "BlendFillet": { "edgeIndex": [5, 8, 3, 1], "edgeRadii": [10, 15, 10, 15]}
+        }
+    }
+] 

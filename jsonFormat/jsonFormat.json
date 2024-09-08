@@ -1,0 +1,204 @@
+[
+  {
+    "name": "Chair Sit",
+    "localPlane": {
+      "originX": 808,
+      "originY": -112,
+      "originZ": 304,
+      "normalX": 0,
+      "normalY": 0,
+      "normalZ": 1
+    },
+    "curveParameters": {
+      "thicknessType": "Offset",
+      "thickness": 50,
+      "curve1PointSet": [
+        [608, -312, 341], [608, -180, 319], [608, -45, 319], [608, 88, 341]
+      ],
+      "curve2PointSet": [
+        [608, -312, 341],  [741, -312, 326],  [875, -312, 326], [1008, -312, 341]
+      ]
+    },
+    "rotateParameters": {
+      "rotateDegrees": {
+        "rx": -13,
+        "ry": 0,
+        "rz": 0
+      },
+      "useLocalPlane": false
+    },
+    "filletParameters": [
+      {
+        "filletType": 0,
+        "edgeIndex": [8, 9, 10, 11],
+        "edgeRadii": [20, 30, 25, 30]
+      },
+      {
+        "filletType": 1,
+        "edgeIndex": [],
+        "edgeRadii": []
+      },
+      {
+        "filletType": 2,
+        "edgeIndex": [0, 1, 2],
+        "edgeRadii": [10, 15, 10]
+      }
+    ]
+  },
+  {
+    "name": "Chair Stand",
+    "localPlane": {
+      "originX": 900,
+      "originY": -50,
+      "originZ": 320,
+      "normalX": 1,
+      "normalY": 0,
+      "normalZ": 0
+    },
+    "curveParameters": {
+      "thicknessType": "Uniform",
+      "thickness": 30,
+      "curve1PointSet": [
+        [700, -250, 330],
+        [700, -120, 310],
+        [700, 0, 310],
+        [700, 130, 330]
+      ],
+      "curve2PointSet": [
+        [700, -250, 330],
+        [820, -250, 315],
+        [940, -250, 315],
+        [1060, -250, 330]
+      ]
+    },
+    "rotateParameters": {
+      "rotateDegrees": {
+        "rx": 10,
+        "ry": -5,
+        "rz": 0
+      },
+      "useLocalPlane": true
+    },
+    "filletParameters": [
+      {
+        "filletType": 0,
+        "edgeIndex": [1, 2, 3, 4],
+        "edgeRadii": [15, 20, 15, 20]
+      },
+      {
+        "filletType": 1,
+        "edgeIndex": [5, 6, 7],
+        "edgeRadii": [12, 18, 12]
+      },
+      {
+        "filletType": 2,
+        "edgeIndex": [],
+        "edgeRadii": []
+      }
+    ]
+  },
+  {
+    "name": "Chair Edge",
+    "localPlane": {
+      "originX": 710,
+      "originY": -90,
+      "originZ": 280,
+      "normalX": 0,
+      "normalY": 1,
+      "normalZ": 0
+    },
+    "curveParameters": {
+      "thicknessType": "Offset",
+      "thickness": 40,
+      "curve1PointSet": [
+        [510, -290, 300],
+        [510, -150, 280],
+        [510, -20, 280],
+        [510, 110, 300]
+      ],
+      "curve2PointSet": [
+        [510, -290, 300],
+        [640, -290, 285],
+        [770, -290, 285],
+        [900, -290, 300]
+      ]
+    },
+    "rotateParameters": {
+      "rotateDegrees": {
+        "rx": 0,
+        "ry": -10,
+        "rz": 5
+      },
+      "useLocalPlane": false
+    },
+    "filletParameters": [
+      {
+        "filletType": 0,
+        "edgeIndex": [3, 4, 5, 6],
+        "edgeRadii": [20, 25, 20, 25]
+      },
+      {
+        "filletType": 1,
+        "edgeIndex": [],
+        "edgeRadii": []
+      },
+      {
+        "filletType": 2,
+        "edgeIndex": [8, 9, 10],
+        "edgeRadii": [15, 20, 15]
+      }
+    ]
+  },
+  {
+    "name": "Chair Back",
+    "localPlane": {
+      "originX": 820,
+      "originY": -70,
+      "originZ": 360,
+      "normalX": 0,
+      "normalY": 0,
+      "normalZ": 1
+    },
+    "curveParameters": {
+      "thicknessType": "Uniform",
+      "thickness": 60,
+      "curve1PointSet": [
+        [620, -330, 380],
+        [620, -180, 360],
+        [620, -40, 360],
+        [620, 100, 380]
+      ],
+      "curve2PointSet": [
+        [620, -330, 380],
+        [750, -330, 365],
+        [880, -330, 365],
+        [1010, -330, 380]
+      ]
+    },
+    "rotateParameters": {
+      "rotateDegrees": {
+        "rx": -5,
+        "ry": 10,
+        "rz": -10
+      },
+      "useLocalPlane": true
+    },
+    "filletParameters": [
+      {
+        "filletType": 0,
+        "edgeIndex": [2, 3, 4, 5],
+        "edgeRadii": [18, 28, 18, 28]
+      },
+      {
+        "filletType": 1,
+        "edgeIndex": [0, 1, 2],
+        "edgeRadii": [14, 19, 14]
+      },
+      {
+        "filletType": 2,
+        "edgeIndex": [],
+        "edgeRadii": []
+      }
+    ]
+  }
+]

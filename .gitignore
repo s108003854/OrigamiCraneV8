@@ -1,0 +1,85 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.vs/OrigamiCraneV8/DesignTimeBuild/.dtbcache.v2
+.vs/OrigamiCraneV8/FileContentIndex/119fd2e8-330d-44ce-9d65-a163aea4db96.vsidx
+.vs/OrigamiCraneV8/FileContentIndex/51b220b8-0ce7-4c45-83f0-df257da65791.vsidx
+.vs/OrigamiCraneV8/FileContentIndex/5656a20d-39ae-4b43-9971-2c4246f22447.vsidx
+.vs/OrigamiCraneV8/FileContentIndex/5780077d-9178-432b-86e9-a923fc3b096e.vsidx
+.vs/OrigamiCraneV8/FileContentIndex/d0acf7cf-7e4a-41b1-95ba-5bcf99cd89ac.vsidx
+.vs/OrigamiCraneV8/v17/.futdcache.v2
+.vs/OrigamiCraneV8/v17/.suo
+.vs/OrigamiCraneV8/v17/.wsuo
+.vs/OrigamiCraneV8/v17/DocumentLayout.json
+.vs/ProjectEvaluation/origamicranev8.metadata.v8.bin
+.vs/ProjectEvaluation/origamicranev8.projects.v8.bin
+.vs/ProjectEvaluation/origamicranev8.strings.v8.bin
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+bin/Debug/net48/OrigamiCraneV8.gha
+bin/Debug/net48/OrigamiCraneV8.pdb
+bin/Debug/net7.0/OrigamiCraneV8.deps.json
+bin/Debug/net7.0/OrigamiCraneV8.gha
+bin/Debug/net7.0/OrigamiCraneV8.pdb
+obj/Debug/net48/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+obj/Debug/net48/OrigamiC.AC5FDF66.Up2Date
+obj/Debug/net48/OrigamiCraneV8.AssemblyInfo.cs
+obj/Debug/net48/OrigamiCraneV8.AssemblyInfoInputs.cache
+obj/Debug/net48/OrigamiCraneV8.assets.cache
+obj/Debug/net48/OrigamiCraneV8.csproj.AssemblyReference.cache
+obj/Debug/net48/OrigamiCraneV8.csproj.BuildWithSkipAnalyzers
+obj/Debug/net48/OrigamiCraneV8.csproj.CoreCompileInputs.cache
+obj/Debug/net48/OrigamiCraneV8.csproj.FileListAbsolute.txt
+obj/Debug/net7.0/OrigamiCraneV8.AssemblyInfoInputs.cache
+obj/Debug/net48/OrigamiCraneV8.gha
+obj/Debug/net48/OrigamiCraneV8.pdb
+obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+obj/Debug/net7.0/OrigamiCraneV8.AssemblyInfo.cs
+obj/Debug/net7.0/OrigamiCraneV8.assets.cache
+obj/Debug/net7.0/OrigamiCraneV8.csproj.AssemblyReference.cache
+obj/Debug/net7.0/OrigamiCraneV8.csproj.BuildWithSkipAnalyzers
+obj/Debug/net7.0/OrigamiCraneV8.csproj.CoreCompileInputs.cache
+obj/Debug/net7.0/OrigamiCraneV8.csproj.FileListAbsolute.txt
+obj/Debug/net7.0/OrigamiCraneV8.gha
+obj/Debug/net7.0/OrigamiCraneV8.pdb
+obj/Debug/net7.0/ref/OrigamiCraneV8.gha
+obj/Debug/net7.0/refint/OrigamiCraneV8.gha
+obj/OrigamiCraneV8.csproj.nuget.dgspec.json
+obj/OrigamiCraneV8.csproj.nuget.g.props
+obj/OrigamiCraneV8.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/net48/OrigamiCraneV8.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/OrigamiCraneV8.GeneratedMSBuildEditorConfig.editorconfig
+.vs/OrigamiCraneV8/FileContentIndex/bfd0d80c-57e3-4ab6-96f7-75a69702d102.vsidx
+.vs/OrigamiCraneV8/FileContentIndex/cf10d8f6-e24b-4e07-8c04-a046a67d2c3b.vsidx
+.vs/OrigamiCraneV8/FileContentIndex/2b4bda7e-2cbe-4887-92d9-f0d05c596181.vsidx

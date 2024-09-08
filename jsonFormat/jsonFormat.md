@@ -1,0 +1,163 @@
+- Chair Sit
+  - Local Plane
+    - OriginX: 808
+    - OriginY: -112
+    - OriginZ: 304
+    - NormalX: 0
+    - NormalY: 0
+    - NormalZ: 1
+
+  - Curve Parameters
+    - Thickness Type: "Offset"
+    - Thickness: 50
+    - Curve 1 Point Set
+      - [608, -312, 341]
+      - [608, -180, 319]
+      - [608, -45, 319]
+      - [608, 88, 341]
+    - Curve 2 Point Set
+      - [608, -312, 341]
+      - [741, -312, 326]
+      - [875, -312, 326]
+      - [1008, -312, 341]
+
+  - Rotate Parameters
+    - Rotate Degrees
+      - Rx: -13
+      - Ry: 0
+      - Rz: 0
+    - useLocalPlane: false
+
+  - Fillet Parameters
+    - FilletType: 0
+      - EdgeIndex: [8, 9, 10, 11]
+      - EdgeRadii: [20, 30, 25, 30]
+    - FilletType: 1
+      - EdgeIndex: []
+      - EdgeRadii: []
+    -  FilletType: 2
+      - EdgeIndex: [0, 1, 2]
+      - EdgeRadii: [10, 15, 10]
+
+- Chair Stand
+  - Local Plane
+    - OriginX: 900
+    - OriginY: -50
+    - OriginZ: 320
+    - NormalX: 1
+    - NormalY: 0
+    - NormalZ: 0
+
+  - Curve Parameters
+    - Thickness Type: "Uniform"
+    - Thickness: 30
+    - Curve 1 Point Set
+      - [700, -250, 330]
+      - [700, -120, 310]
+      - [700, 0, 310]
+      - [700, 130, 330]
+    - Curve 2 Point Set
+      - [700, -250, 330]
+      - [820, -250, 315]
+      - [940, -250, 315]
+      - [1060, -250, 330]
+
+  - Rotate Parameters
+    - Rotate Degrees
+      - Rx: 10
+      - Ry: -5
+      - Rz: 0
+    - useLocalPlane: true
+
+  - Fillet Parameters
+    - FilletType: 0
+      - EdgeIndex: [1, 2, 3, 4]
+      - EdgeRadii: [15, 20, 15, 20]
+    - FilletType: 1
+      - EdgeIndex: [5, 6, 7]
+      - EdgeRadii: [12, 18, 12]
+    - FilletType: 2
+      - EdgeIndex: []
+      - EdgeRadii: []
+
+- Chair Edge
+  - Local Plane
+    - OriginX: 710
+    - OriginY: -90
+    - OriginZ: 280
+    - NormalX: 0
+    - NormalY: 1
+    - NormalZ: 0
+
+  - Curve Parameters
+    - Thickness Type: "Offset"
+    - Thickness: 40
+    - Curve 1 Point Set
+      - [510, -290, 300]
+      - [510, -150, 280]
+      - [510, -20, 280]
+      - [510, 110, 300]
+    - Curve 2 Point Set
+      - [510, -290, 300]
+      - [640, -290, 285]
+      - [770, -290, 285]
+      - [900, -290, 300]
+
+  - Rotate Parameters
+    - Rotate Degrees
+      - Rx: 0
+      - Ry: -10
+      - Rz: 5
+    - useLocalPlane: false
+
+  - Fillet Parameters
+    - FilletType: 0
+      - EdgeIndex: [3, 4, 5, 6]
+      - EdgeRadii: [20, 25, 20, 25]
+    - FilletType: 1
+      - EdgeIndex: []
+      - EdgeRadii: []
+    - FilletType: 2
+      - EdgeIndex: [8, 9, 10]
+      - EdgeRadii: [15, 20, 15]
+
+- Chair back
+  - Local Plane
+    - OriginX: 820
+    - OriginY: -70
+    - OriginZ: 360
+    - NormalX: 0
+    - NormalY: 0
+    - NormalZ: 1
+
+  - Curve Parameters
+    - Thickness Type: "Uniform"
+    - Thickness: 60
+    - Curve 1 Point Set
+      - [620, -330, 380]
+      - [620, -180, 360]
+      - [620, -40, 360]
+      - [620, 100, 380]
+    - Curve 2 Point Set
+      - [620, -330, 380]
+      - [750, -330, 365]
+      - [880, -330, 365]
+      - [1010, -330, 380]
+
+  - Rotate Parameters
+    - Rotate Degrees
+      - Rx: -5
+      - Ry: 10
+      - Rz: -10
+    - useLocalPlane: true
+
+  - Fillet Parameters
+    - FilletType: 0
+      - EdgeIndex: [2, 3, 4, 5]
+      - EdgeRadii: [18, 28, 18, 28]
+    - FilletType: 1
+      - EdgeIndex: [0, 1, 2]
+      - EdgeRadii: [14, 19, 14]
+    - FilletType: 2
+      - EdgeIndex: []
+      - EdgeRadii: []
